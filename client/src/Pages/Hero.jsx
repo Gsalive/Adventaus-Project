@@ -21,7 +21,7 @@ const Hero = () => {
           <p id='p1' className="text-white" style={{ margin: '2rem' }}>Embark on a culinary journey where opulence meets gastronomy. Delight your senses with exquisite flavors and impeccable service. Immerse yourself in an ambiance of elegance and attention to detail. Experience a haven of culinary excellence and luxury
           </p>
         </div>
-        <Link  className='link' to='/Menu'>
+        <Link  className='link' to='/menu'>
         <button type="button" className='btn' style={{backgroundColor:'cornsilk',marginLeft:'4%'}}>Explore Menu</button>
         </Link>
         

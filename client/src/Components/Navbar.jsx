@@ -26,7 +26,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav mr-auto navbar-link">
             <li className="nav-item">
-              <Link className="nav-link" to="/NeeD">
+              <Link className="nav-link" to="/">
                 Home
               </Link>
             </li>
@@ -36,12 +36,12 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/Gallery">
+              <Link className="nav-link" to="/gallery">
                 Gallery
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/Contactus">
+              <Link className="nav-link" to="/contact">
                 Contact Us
               </Link>
             </li>
